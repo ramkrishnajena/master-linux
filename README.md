@@ -310,13 +310,5 @@ It’s about understanding **how the operating system works under the hood** and
 
 That’s how real Linux skill is built.
 
----
 
-If you want, I can:
-
-* Turn this into a **Notion checklist**
-* Create a **30 / 60 / 90 day Linux plan**
-* Start **Phase 1 hands-on** with daily commands and tasks
-
-Just say the word.
 
